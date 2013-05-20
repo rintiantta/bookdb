@@ -1,0 +1,15 @@
+{
+  "name": "bookdb",
+  "version": "0.0.1",
+  "description": "Simple FS DB for Book",
+  "main": "bookdb.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rintiantta/bookdb.git"
+  },
+  "author": "rintiantta",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a325aa1ca95da28b0d794113d91ab9a8542ce2e6"
+}
